@@ -1,0 +1,13 @@
+#define Id_Startpanel 2
+#define Id_Gamepanel 3
+#define Id_GridP1 11
+#define Id_GridP2 12
+#define Id_GridP3 13
+#define Id_GridP4 14
+#define Id_GridP5 15
+#define Id_GridP6 16
+#define Id_GridP7 17
+#define Id_GridP8 18
+#define Id_GridP9 19
+#define Id_Startbtn 20
+#define Id_Exitbtn 21
