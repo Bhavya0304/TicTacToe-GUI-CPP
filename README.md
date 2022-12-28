@@ -1,8 +1,12 @@
 # TicTacToe-GUI-CPP
-## A TicTacToe game that is a GUI Application in C++...
+<p>A TicTacToe game that is a GUI Application in C++...</p>
 
-To build, simply clone repo and Run<br>
-<code>make</code>
+# How to setup project!<hr>
+## for Unix based system like ubuntu <hr>
 
-A Executable file will be genrated called app.
+coming soon...
+
+## for Windows <hr>
+
+coming soon...
 
