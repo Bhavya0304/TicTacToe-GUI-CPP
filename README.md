@@ -3,3 +3,6 @@
 
 To build, simply clone repo and Run<br>
 <code>make</code>
+
+A Executable file will be genrated called app.
+
