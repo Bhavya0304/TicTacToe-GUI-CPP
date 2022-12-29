@@ -5,11 +5,11 @@
 ## For Windows 
 
 <pre>
-#Using Mingw-W64
+<h3>Using Mingw-W64</h3>
 First Download WxWidget header files, development files and Release DLLs from link <a href="https://www.wxwidgets.org/downloads/">https://www.wxwidgets.org/downloads/<a> <br>
 Then Extract in WxWdidget folder that we will use as main WxWdidget build folder. <br>
 Change the compileinwindows.bat file as per location of WxWdidget folder and DAB! double click on compileinwindows.bat file to compile using g++ compiler. <br>
-Note: **If want compile using Visual Studio and MSCompiler then follow WxWidget Docs...** 
+Note: <b>If want compile using Visual Studio and MSCompiler then follow WxWidget Docs...</b> 
 </pre>
 
 ## For Unix based system like Ubuntu 
