@@ -7,21 +7,21 @@
 
 MainFrame::MainFrame(const wxString messege):wxFrame(NULL,wxID_ANY,messege,wxDefaultPosition,wxSize(350,400))
 {
-    StartPage* startpage = new StartPage(this,Id_Startpanel);
+    app::StartPage* startpage = new app::StartPage(this,Id_Startpanel);
     startpage->Show();
     Center();
 }
 
 void MainFrame::openStartPage(){
     this->DestroyChildren();
-    StartPage* startpage = new StartPage(this,Id_Startpanel);
+    app::StartPage* startpage = new app::StartPage(this,Id_Startpanel);
     startpage->Show();
     this->Layout();
 }
 
 void MainFrame::openGamePage(){
     this->DestroyChildren();
-    GamePage* gamepage = new GamePage(this,Id_Gamepanel);
+    app::GamePage* gamepage = new app::GamePage(this,Id_Gamepanel);
     gamepage->Show();
     this->Layout();
 }

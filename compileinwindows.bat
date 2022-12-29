@@ -1,0 +1,1 @@
+g++ app.cpp frames/gamepage.cpp frames/startpage.cpp frames/mainframe.cpp -B"app.h" -B"frames/gamepage.h" -B"frames/mainframe.h" -B"frames/startpage.h" -B"frames/id.h"  -o app -I"C:\WxWidgets\include" -I"C:\WxWidgets\lib\gcc810_x64_dll\mswu" -L"C:\WxWidgets\lib\gcc810_x64_dll" -l libwxbase30u -l libwxmsw30u_core

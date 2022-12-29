@@ -4,6 +4,9 @@
 #include "mainframe.h"
 #include<string>
 
+namespace app{
+
+
 class GamePage: public wxPanel{
     public:
         MainFrame *parent;
@@ -22,3 +25,4 @@ class GamePage: public wxPanel{
         void setStatusPlayer(wxStatusBar* bar);
         void isGameOver();
 };
+}

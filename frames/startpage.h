@@ -4,6 +4,9 @@
 #include "id.h"
 #include "mainframe.h"
 
+namespace app{
+
+
 class StartPage: public wxPanel{
     public:
         StartPage(MainFrame *parent,wxWindowID id);
@@ -11,3 +14,4 @@ class StartPage: public wxPanel{
         void onExit(wxCommandEvent& event);
         void onStart(wxCommandEvent& event);
 };
+}
