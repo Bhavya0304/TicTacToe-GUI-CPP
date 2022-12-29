@@ -1,7 +1,7 @@
 # TicTacToe-GUI-CPP
 <p>A TicTacToe game that is a GUI Application in C++...</p>
 
-# How to WxWidget For project!
+# How to setup WxWidget For project!
 ## For Windows 
 
 <pre>
