@@ -1,7 +1,7 @@
 # TicTacToe-GUI-CPP
 <p>A TicTacToe game that is a GUI Application in C++...</p>
 
-# How to setup project!
+# How to WxWidget For project!
 ## For Windows 
 
 <pre>
@@ -25,7 +25,7 @@ Note: <b>You need to install GTK development libary before any futhur process, i
 <code>make install</code><br>
 <code>ldconfig</code><br>
 Note: <b>If you get any permission error then run following commands using sudo.</b>
-
+Finally you can Run: <b>make</b> inside the repo to build the project..
 </pre>
 
 
